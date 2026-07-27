@@ -145,17 +145,19 @@ terraform destroy
 
 ---
 
-# Project Screenshot
+# Architecture
 
-> Place your project screenshot inside:
+The following diagram illustrates the infrastructure deployed by Terraform.
 
-```text
-screenshots/website.png
-```
+![Architecture Diagram](screenshots/infr.png)
 
-Then GitHub will automatically display it below.
+---
 
-![Project Screenshot](screenshots/website.png)
+# Website Preview
+
+The following screenshot shows the deployed Nginx landing page running on Amazon EC2.
+
+![Website Screenshot](screenshots/website.png)
 
 ---
 
